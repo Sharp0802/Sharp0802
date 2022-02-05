@@ -12,10 +12,10 @@
 ### 🔭 Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sharp0802&show_icons=true&theme=github_dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sharp0802&show_icons=true&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharp0802&langs_count=8&layout=compact&theme=github_dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharp0802&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
 </a>
 
 <!--
