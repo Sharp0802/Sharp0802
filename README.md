@@ -8,7 +8,7 @@
 ### 📫 Contract
 
 - Email: sharp0802.business@gmail.com
-- Blog: [sharp0802.github.io](sharp0802.github.io)
+- Blog: [sharp0802.github.io](https://sharp0802.github.io)
 
 ### 🔭 Github Stats
 
