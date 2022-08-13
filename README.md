@@ -2,12 +2,13 @@
 
 ### 🌱 Currently
 
-- 정말 놀랍게도, 평범한 학생이다
-- C#, C++을 주 언어로 활용한다
+- I'm korean middle school student.
+- My main programming language: C#
 
 ### 📫 Contract
 
 - Email: sharp0802.business@gmail.com
+- Blog: [sharp0802.github.io](sharp0802.github.io)
 
 ### 🔭 Github Stats
 
