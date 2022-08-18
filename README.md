@@ -5,7 +5,7 @@
 - I'm korean middle school student.
 - My main programming language: C#
 
-### 📫 Contract
+### 📫 Contact
 
 - Email: sharp0802.business@gmail.com
 - Blog: [sharp0802.github.io](https://sharp0802.github.io)
