@@ -2,7 +2,7 @@
 
 ### 🌱 Currently
 
-- I'm korean middle school student.
+- I'm korean high school student.
 - My main programming language: C#
 
 ### 📫 Contact
