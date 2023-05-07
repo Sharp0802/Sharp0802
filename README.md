@@ -3,11 +3,13 @@
 ### 🌱 Currently
 
 - I'm korean high school student.
-- My main programming language: C#
+- My main programming language: `C#`
+- But, `C` is also my prefered language too.
 
 ### 📫 Contact
 
 - Email: sharp0802.business@gmail.com
+- Arcademic Email: syw0802.dev@dimigo.hs.kr
 - Blog: [sharp0802.github.io](https://sharp0802.github.io)
 
 ### 🔭 Github Stats
