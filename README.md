@@ -3,8 +3,9 @@
 ### 🌱 Currently
 
 - I'm korean high school student.
-- My main programming language: `C#`
-- But, `C` is also my prefered language too.
+  - the 22 year of Korea Digital Media H.S. ([wiki](https://en.wikipedia.org/wiki/Korea_Digital_Media_High_School))
+  - the 12 year of BoB ([site](https://www.kitribob.kr/))
+- My main programming language: `C#`, `C/C++`
 
 ### 📫 Contact
 
