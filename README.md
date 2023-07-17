@@ -1,4 +1,4 @@
-## 👋 Hi there
+## 👋 Hi there, I'm Yeong-won Seo(서영원)!
 
 ### 🌱 Currently
 
