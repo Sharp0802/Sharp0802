@@ -11,7 +11,7 @@
 
 - Email: sharp0802.business@gmail.com
 - Arcademic Email: syw0802.dev@dimigo.hs.kr
-- Blog: [sharp0802.github.io](https://sharp0802.github.io)
+- Blog: [blog.sharp0802.dev](https://blog.sharp0802.dev)
 
 ### 🔭 Github Stats
 
