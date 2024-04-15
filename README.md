@@ -5,11 +5,13 @@
 - I'm korean high school student.
 - My main programming language: `C#`, `C/C++`
 
-### 🔖 I was...
+### 🔖 I'm belong in...
 
-- 2023 the 22nd year of Korea Digital Media H.S. ([wiki](https://en.wikipedia.org/wiki/Korea_Digital_Media_High_School))
-- 2023 the 12nd year of KITRI BoB (차세대보안리더양성프로그램 - 한국정보기술연구원) ([site](https://www.kitribob.kr/))
-- 2024 Young Gifted Scientists Education Programme(청소년과학영재사사) - KAST (The Korean Academy of Science and Technology, 한국과학기술한림원) ([site](https://kast.or.kr/kr/person/teenager.php))
+| Year | Name                                                                          | Organizer                                                                  | Link                                                          |
+|:----:|:-----------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:--------------------------------------------------------------|
+| 2023 | Korea Digital Media H.S. (한국디지털미디어고등학교)                               | --                                                                         | https://en.wikipedia.org/wiki/Korea_Digital_Media_High_School |
+| 2023 | BoB, Next-generation security leader training program (차세대보안리더양성프로그램) | KITRI (Korea Information Technology Research Institute, 한국정보기술연구원)  | https://www.kitribob.kr/                                      |
+| 2024 | Young Gifted Scientists Education Programme (청소년과학영재사사)                 | KAST (The Korean Academy of Science and Technology, 한국과학기술한림원)       | https://kast.or.kr/kr/person/teenager.php                     |
 
 ### 📫 Contact
 
