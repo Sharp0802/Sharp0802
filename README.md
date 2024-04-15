@@ -11,7 +11,7 @@
 
 - Email: syw0802@proton.me
 - Arcademic Email: syw0802.dev@dimigo.hs.kr
-- Blog: [blog.sharp0802.dev](https://blog.sharp0802.dev)
+- Blog: [blog.sharp0802.com](https://blog.sharp0802.com)
 
 ### 🔭 Github Stats
 
