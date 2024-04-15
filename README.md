@@ -9,7 +9,7 @@
 
 - 2023 the 22nd year of Korea Digital Media H.S. ([wiki](https://en.wikipedia.org/wiki/Korea_Digital_Media_High_School))
 - 2023 the 12nd year of KITRI BoB (차세대보안리더양성프로그램 - 한국정보기술연구원) ([site](https://www.kitribob.kr/))
-- 2024 Young Gifted Scientists Education Programme(청소년과학영재사사) - The Korean Academy of Science and Technology(한국과학기술한림원) ([site](https://kast.or.kr/kr/person/teenager.php))
+- 2024 Young Gifted Scientists Education Programme(청소년과학영재사사) - KAST (The Korean Academy of Science and Technology, 한국과학기술한림원) ([site](https://kast.or.kr/kr/person/teenager.php))
 
 ### 📫 Contact
 
