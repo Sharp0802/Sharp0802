@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sharp0802&theme=gitdimmed&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sharp0802&theme=gitdimmed" />
 </p>
 
 <h3 align="center">📚 Tech Stack</h3>
