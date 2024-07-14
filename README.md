@@ -2,6 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I'm%20Yeong-won!"/>
 </p>
 
+<h3 align="center">🏆 Github Trophy</h3>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sharp0802&theme=gitdimmed" />
 </p>
