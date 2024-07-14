@@ -29,7 +29,7 @@
 <h3 align="center">🏆 Github Trophy</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sharp0802&theme=gitdimmed&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sharp0802&theme=gitdimmed&column=5" />
 </p>
 
 ### 🏅 Honors and Awards
