@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I'm%20Yeong-won!"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hello,%20I'm%20Yeong-won!&textBg=false&section=header&reversal=false&fontAlignY=44"/>
 </p>
 
-<h3 align="center">📚 Tech Stack / Environment</h3>
+### 📚 Tech Stack / Environment
 
-<div align="center">
+<div>
 <table>
   <tr>
-    <td>Framework/Tools</td>
+    <td>:building_construction: Framework</td>
     <td>
       <img src="https://img.shields.io/badge/LLVM-262D3A.svg?style=for-the-badge&logo=LLVM&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenGL-5586A4.svg?style=for-the-badge&logo=OpenGL&logoColor=white" />
@@ -21,7 +21,7 @@
   </tr>
 
   <tr>
-    <td>Languages</td>
+    <td>:memo: PLs</td>
     <td>
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -33,7 +33,7 @@
   </tr>
 
   <tr>
-    <td>Environments</td>
+    <td>:technologist: Environments</td>
     <td>
       <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
       <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" />
@@ -45,11 +45,20 @@
   </tr>
   
   <tr>
-    <td>Networks</td>
+    <td>:zap: Networks</td>
     <td>
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
       <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>:speech_balloon: Languages</td>
+    <td>
+      <img src="https://img.shields.io/badge/A-english-blue?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/あ-japanese-blue?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/%ED%95%9C-korean-blue?style=for-the-badge" />
     </td>
   </tr>
 </table>
