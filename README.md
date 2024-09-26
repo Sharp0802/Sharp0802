@@ -33,11 +33,12 @@
 
 ### 🏅 Honors and Awards
 
-| Year | Name                                                                             | Rank                        |
-|:----:|:---------------------------------------------------------------------------------|:----------------------------|
-| 2022 | Korean Olympiad in Informatics (National) (한국정보올림피아드)                      | 🥉 Bronze Award (전국 동상)   |
-| 2023 | National Entrepreneurship Invention Contest (전국창업발명경진대회)                  | 🥇 Grand Prize (대상)        |
-| 2024 | Vocational High School Youth Startup Idea Contest (직업계고 청년 창업아이디어 공모전) | 🥈 Excellence Award (우수상) |
+| Year | Name                                                                                  | Rank                          |
+|:----:|:--------------------------------------------------------------------------------------|:------------------------------|
+| 2022 | Korean Olympiad in Informatics (National) (한국정보올림피아드)                        | 🥉 Bronze Award (전국 동상)   |
+| 2023 | National Entrepreneurship Invention Contest (전국창업발명경진대회)                    | 🥇 Grand Prize (대상)         |
+| 2024 | Vocational High School Youth Startup Idea Contest (직업계고 청년 창업아이디어 공모전) | 🥈 Excellence Award (우수상)  |
+| 2024 | Generative AI Utilization Competition (생성형 AI 활용 대전)                           | 🥇 Top Prize (최우수상)       |
 
 ### 🔖 Education
 
