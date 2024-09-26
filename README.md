@@ -92,12 +92,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sharp0802&theme=gitdimmed&column=5" />
 </p>
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sharp0802&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharp0802&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharp0802&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharp0802&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
 </a>
+</div>
 
 <!--
 **Sharp0802/Sharp0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
