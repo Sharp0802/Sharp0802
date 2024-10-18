@@ -75,11 +75,11 @@
 
 ### 🔖 Education
 
-| Year | Name                                                                          | Organizer                                                                  | Link                                                          |
-|:----:|:------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:--------------------------------------------------------------|
-| 2023 | Korea Digital Media H.S. (한국디지털미디어고등학교)                               | --                                                                         | https://en.wikipedia.org/wiki/Korea_Digital_Media_High_School |
-| 2023 | BoB, Next-generation security leader training program (차세대보안리더양성프로그램) | KITRI (Korea Information Technology Research Institute, 한국정보기술연구원)  | https://www.kitribob.kr/                                      |
-| 2024 | KAST Science Mentorship Program 2024 (청소년과학영재사사)                        | KAST (The Korean Academy of Science and Technology, 한국과학기술한림원)       | https://kast.or.kr/kr/person/teenager.php                     |
+|              Year | Name                                                                          | Organizer                                                                  | Link                                                          |
+|:-----------------:|:------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:--------------------------------------------------------------|
+| 2023.03 ~ 2026.02 | Korea Digital Media H.S. (한국디지털미디어고등학교)                               | --                                                                         | https://en.wikipedia.org/wiki/Korea_Digital_Media_High_School |
+| 2023.07 ~ 2024.02 | BoB, Next-generation security leader training program (차세대보안리더양성프로그램) | KITRI (Korea Information Technology Research Institute, 한국정보기술연구원)  | https://www.kitribob.kr/                                      |
+| 2024.05 ~ 2024.10 | KAST Science Mentorship Program 2024 (청소년과학영재사사)                        | KAST (The Korean Academy of Science and Technology, 한국과학기술한림원)       | https://kast.or.kr/kr/person/teenager.php                     |
 
 ### 📫 Contact
 
