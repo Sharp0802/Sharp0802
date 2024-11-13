@@ -73,6 +73,7 @@
 | 2024 | Vocational High School Youth Startup Idea Contest (직업계고 청년 창업아이디어 공모전) | 🥈 Excellence Award (우수상)  |
 | 2024 | Generative AI Utilization Competition (생성형 AI 활용 대전)                           | 🥇 Top Prize (최우수상)       |
 | 2024 | Gyeonggi Garage, Gyeonggi-Regional Digital Solutions Contest (경기창고, 경기도 디지털 솔루션 경연) | 🥇 Grand Prize (대상) |
+| 2024 | KOPO Venture Start-up Item Contest (벤처창업아이템 경진대회) | 🥇 Grand Prize (대상) |
 
 ### 🔖 Education
 
