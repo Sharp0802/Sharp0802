@@ -74,7 +74,7 @@
 | 2024.09 | Generative AI Utilization Competition (생성형 AI 활용 대전)                           | 🥇 Top Prize (최우수상)       |
 | 2024.10 | Gyeonggi Garage, Gyeonggi-Regional Digital Solutions Contest (경기창고, 경기도 디지털 솔루션 경연) | 🥇 Grand Prize (대상) |
 | 2024.11 | KOPO Venture Start-up Item Contest (벤처창업아이템 경진대회) | 🥇 Grand Prize (대상) |
-| 2024.12 | Software FUTURE&DREAM Challenge 2024 | 🥉 Silver Award (은상) |
+| 2024.12 | Software FUTURE&DREAM Challenge 2024 | 🥈 Silver Award (은상) |
 
 ### 🔖 Education
 
