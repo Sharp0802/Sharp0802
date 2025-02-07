@@ -52,15 +52,6 @@
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     </td>
   </tr>
-
-  <tr>
-    <td>:speech_balloon: Languages</td>
-    <td>
-      <img src="https://img.shields.io/badge/A-english-blue?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/あ-japanese-blue?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/%ED%95%9C-korean-blue?style=for-the-badge" />
-    </td>
-  </tr>
 </table>
 </div>
 
@@ -80,11 +71,11 @@
 
 ### 🔖 Education
 
-|              Year | Name                                                                          | Organizer                                                                  | Link                                                          |
-|:-----------------:|:------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:--------------------------------------------------------------|
-| 2023.03 ~ 2026.02 | Korea Digital Media H.S. (한국디지털미디어고등학교)                               | --                                                                         | https://en.wikipedia.org/wiki/Korea_Digital_Media_High_School |
-| 2023.07 ~ 2024.02 | BoB, Next-generation security leader training program (차세대보안리더양성프로그램) | KITRI (Korea Information Technology Research Institute, 한국정보기술연구원)  | https://www.kitribob.kr/                                      |
-| 2024.05 ~ 2024.10 | KAST Science Mentorship Program 2024 (청소년과학영재사사)                        | KAST (The Korean Academy of Science and Technology, 한국과학기술한림원)       | https://kast.or.kr/kr/person/teenager.php                     |
+|              Year | Name                                                                          | Dept. | Organizer                                                                  | Link                                                          |
+|:-----------------:|:------------------------------------------------------------------------------|:-:|:---------------------------------------------------------------------------|:--------------------------------------------------------------|
+| 2023.03 ~ 2026.02 | Korea Digital Media H.S. (한국디지털미디어고등학교)                               | Hacking Defence (해킹방어과) | --                                                                         | https://en.wikipedia.org/wiki/Korea_Digital_Media_High_School |
+| 2023.07 ~ 2024.02 | BoB, Next-generation security leader training program (차세대보안리더양성프로그램)| Security Product Development (보안제품개발) | KITRI (Korea Information Technology Research Institute, 한국정보기술연구원)  | https://www.kitribob.kr/                                      |
+| 2024.05 ~ 2024.10 | KAST Science Mentorship Program 2024 (청소년과학영재사사)                        | Engineering (공학부문) | KAST (The Korean Academy of Science and Technology, 한국과학기술한림원)       | https://kast.or.kr/kr/person/teenager.php                     |
 
 ### 📫 Contact
 
