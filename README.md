@@ -69,6 +69,7 @@
 | 2025.01 | ERICA High School Startup Contest (ERICA 고교창업경진대회)                            | 🥈 Top Prize (최우수상) |
 | 2025.01 | KSEF (Korea Science & Engineering Fair)                                             | 🥇 Gold Award (금상) |
 | 2025.05 | ISEF (International Science & Engineering Fair)                                     | Finalist |
+| 2025.08 | KAIST HackQuest                                                                     | Finalist |
 
 ### 🔖 Education
 
