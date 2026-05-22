@@ -13,7 +13,7 @@ Tech:
 
 Environment:
 
-- Linux (Arch, Debian)
+- Linux : **NixOS** (currently used), Arch, Debian
 - LLVM/MLIR
 - Docker
 
@@ -50,14 +50,5 @@ Environment:
 ### 🔭 Github Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sharp0802&theme=gitdimmed&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sharp0802&theme=gitdimmed&column=5&row=2" />
 </p>
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharp0802&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharp0802&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
-</a>
-</div>
