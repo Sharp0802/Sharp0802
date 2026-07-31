@@ -1,54 +1,25 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hello,%20I'm%20Yeong-won!&textBg=false&section=header&reversal=false&fontAlignY=44"/>
-</p>
+- Mainly Used:
+  + **Rust**, **C#**, **C/C++**, Nix, Kotlin
+  + WebGPU+WGSL, Jetpack Compose, OpenGL
+  + LLVM/MLIR, ClangIR, CoreCLR, C++/CLI, Flakes
 
-### 📚 Tech Stack / Environment
+- Honors and Awards:
+  + 2025.08: KAIST HackQuest, Finalist
+  + 2025.05: ISEF (International Science & Engineering Fair), Finalist
+  + 2025.01: KSEF (Korea Science & Engineering Fair), Gold Award
+  + 2025.01: ERICA High School Startup Contest, Top Prize
+  + 2024.12: Software FUTURE&DREAM Challenge, Silver Award
+  + 2024.11: KOPO 벤처창업아이템 경진대회, Grand Prize
+  + 2024.10: 경기창고, 경기도 디지털 솔루션 경연, Grand Prize
+  + 2023.08: 전국창업발명경진대회, Grand Prize
+  + 2022.09: Korean Olympiad in Informatics, Bronze Award (National, Regional)
 
-Tech:
+- Education:
+  + 2026.03 - current: KAIST (Korea Advanced Institute of Science & Technology), Bachelor
+  + 2024.05 - 2024.10: KAST (The Korean Academy of Science and Technology), Science Mentorship Program, Engineering Dept.
+  + 2023.07 - 2024.02: KITRI (Korea Information Technology Research Institute), BOB, Next-gen Security Leader Training Program, Security Product Development Dept.
+  + 2023.03 - 2026.02: Korea Digital Media High School, Hacking Defense Dept.
 
-| Category | <-- (well used) --- (less used) -->                     |
-|---------:|:-------------------------------------------------------:|
-| Language | **Rust**, **C#**, **C/C++**, Kotlin, Python, Javascript |
-|      GUI | Jetpack Compose, OpenGL, HTML-CSS                       |
-
-Environment:
-
-- Linux : **NixOS** (currently used), Arch, Debian
-- LLVM/MLIR
-- Docker
-
-### 🏅 Honors and Awards
-
-| Year | Name                                                                                  | Rank                          |
-|:----:|:--------------------------------------------------------------------------------------|:------------------------------|
-| 2022.09 | Korean Olympiad in Informatics (National) (한국정보올림피아드)                        | 🥉 Bronze Award (전국 동상)   |
-| 2023.08 | National Entrepreneurship Invention Contest (전국창업발명경진대회)                    | 🥇 Grand Prize (대상)         |
-| 2024.06 | Vocational High School Youth Startup Idea Contest (직업계고 청년 창업아이디어 공모전)   | 🥈 Excellence Award (우수상)  |
-| 2024.09 | Generative AI Utilization Competition (생성형 AI 활용 대전)                           | 🥈 Top Prize (최우수상)       |
-| 2024.10 | Gyeonggi Garage, Gyeonggi-Regional Digital Solutions Contest (경기창고, 경기도 디지털 솔루션 경연) | 🥇 Grand Prize (대상) |
-| 2024.11 | KOPO Venture Start-up Item Contest (벤처창업아이템 경진대회)                           | 🥇 Grand Prize (대상) |
-| 2024.12 | Software FUTURE&DREAM Challenge 2024                                                | 🥈 Silver Award (은상) |
-| 2025.01 | ERICA High School Startup Contest (ERICA 고교창업경진대회)                            | 🥈 Top Prize (최우수상) |
-| 2025.01 | KSEF (Korea Science & Engineering Fair)                                             | 🥇 Gold Award (금상) |
-| 2025.05 | ISEF (International Science & Engineering Fair)                                     | Finalist |
-| 2025.08 | KAIST HackQuest                                                                     | Finalist |
-
-### 🔖 Education
-
-|              Year | Name                                                                          | Dept. | Organizer                                                                  | Link                                                          |
-|:-----------------:|:------------------------------------------------------------------------------|:-:|:---------------------------------------------------------------------------|:--------------------------------------------------------------|
-| 2023.03 ~ 2026.02 | Korea Digital Media H.S. (한국디지털미디어고등학교)                               | Hacking Defence (해킹방어과) | --                                                                         | https://en.wikipedia.org/wiki/Korea_Digital_Media_High_School |
-| 2023.07 ~ 2024.02 | BoB, Next-generation security leader training program (차세대보안리더양성프로그램)| Security Product Development (보안제품개발) | KITRI (Korea Information Technology Research Institute, 한국정보기술연구원)  | https://www.kitribob.kr/                                      |
-| 2024.05 ~ 2024.10 | KAST Science Mentorship Program 2024 (청소년과학영재사사)                         | Engineering (공학부문) | KAST (The Korean Academy of Science and Technology, 한국과학기술한림원)       | https://kast.or.kr/kr/person/teenager.php                     |
-| 2026.03 ~ (current) | KAIST, Korea Advanced Institute of Science & Technology (한국과학기술원)        | -- | -- | https://kaist.ac.kr/ |
-
-### 📫 Contact
-
-- Email: syw0802@proton.me
-- Blog: [blog.sharp0802.com](https://blog.sharp0802.com)
-
-### 🔭 Github Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sharp0802&theme=gitdimmed&column=5&row=2" />
-</p>
+- Contacts:
+  + [at proton.me](mailto:syw0802@proton.me)
+  + [at kaist.ac.kr](mailto:sharp0802@kaist.ac.kr)
