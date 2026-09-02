@@ -20,6 +20,9 @@
   + 2023.07 - 2024.02: KITRI (Korea Information Technology Research Institute), BOB, Next-gen Security Leader Training Program, Security Product Development Dept.
   + 2023.03 - 2026.02: Korea Digital Media High School, Hacking Defense Dept.
 
+- Internship:
+  + 2025.11 - 2025.12: Apulsetech co., App dev. (Kotlin, Jetpack Compose)
+
 - Contacts:
   + [at proton.me](mailto:syw0802@proton.me)
   + [at kaist.ac.kr](mailto:sharp0802@kaist.ac.kr)
